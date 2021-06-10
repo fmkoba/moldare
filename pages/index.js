@@ -12,7 +12,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Image src="/site.jpg" alt="me" layout='fill'/>
+        <a href="https://www.facebook.com/roserooconfeccoes">
+          <Image src="/site.jpg" alt="me" layout='fill'/>
+        </a>
       </main>
 
       <footer className={styles.footer}>
